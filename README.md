@@ -1,4 +1,4 @@
-# 🍽️ Foodpanda Customer Analysis (EDA)
+# 🍽️ Food Delivery  Analysis (EDA)
 
 ## 📋 Overview
 Analyzed **Foodpanda customer data** to explore ordering behavior, restaurant performance, and customer satisfaction. Insights help optimize marketing, enhance restaurant offerings, and improve the customer experience.  
